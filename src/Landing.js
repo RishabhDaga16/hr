@@ -15,10 +15,11 @@ export default function Landing() {
       <br />
       <br />
       <br />
+      <br/>
       <div>
         <center>
           <a href="/celebration">
-            <img src="Google Logo Final Edit.jpeg" id="google-logo" />
+            <img src="Google Logo Transparent.png" id="google-logo" />
           </a>
         </center>
       </div>

@@ -73,8 +73,7 @@ body {
   left: 40vw;
 }
 #google-logo {
-  height: 140px;
-  border-radius: 35px;
+  height: 8vh;
 }
 #google-search {
   width: 98vw;
